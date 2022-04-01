@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a696e483d24f7c742967280aa92e5afd, type: 3}
+  m_Name: Party_NormalAttack
+  m_EditorClassIdentifier: 
+  _melee: 1
+  _selfTarget: 0
+  _identifier: {fileID: 11400000, guid: 4b77fcfe42ec87c4f9c23829bd7a19c5, type: 2}
+  _name: Attack
+  _manaCost: 0
